@@ -127,7 +127,9 @@ Este projeto pode ser aplicado em:
 3. Importe o módulo `.bas` para o projeto  
 4. Utilize a função diretamente nas células  
 
-### Exemplo:
+---
+
+## Exemplo:
 
 ```excel
 =BuscarEletricoUnificado(A1;"kO";Tabela;1;2;3)
